@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     Button login, login1;
     TextView signUp;
     ProgressBar progressBar;
-    Button tet;
+    Button te;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
