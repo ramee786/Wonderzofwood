@@ -13,9 +13,10 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
     EditText userName;
     EditText password;
-    Button login;
+    Button login, login1;
     TextView signUp;
     ProgressBar progressBar;
+    Button text_1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
